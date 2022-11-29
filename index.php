@@ -155,9 +155,9 @@
 
 
     <section>
-        <form>
             <div class="container-fluid text-center">
                 <div class="row bcg_color_row">
+                <form>
                     <div class="col-12 col-lg-7 mt-4 m-b4">
                         <div class="mb-3">
                             <label for="exampleFormControlInput1" class="form-label">E-mail</label>
@@ -169,7 +169,7 @@
                         </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </div>
-        </form>
+                </form>
                 <div class="col-12 col-lg-5 align-self-center mt-4 m-b4">
                     <p>bringer.benoit48@gmail.com</p>
                     <p>07.85.53.16.37</p>
