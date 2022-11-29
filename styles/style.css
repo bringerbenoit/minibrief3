@@ -1,0 +1,19 @@
+
+.dropdown-toggle::after{
+    display: none;
+}
+
+
+.bcg_color_row{
+    background-color: grey;
+}
+
+
+.bcg_color_row2{
+    background-color: #384454;
+}
+
+ 
+.color-text{
+    color: #ffff;
+}
