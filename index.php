@@ -173,7 +173,7 @@
                 <div class="col-12 col-lg-5 align-self-center mt-4 m-b4">
                     <p>bringer.benoit48@gmail.com</p>
                     <p>07.85.53.16.37</p>
-                    <a href="https://github.com/bringerbenoit"><i class="bi bi-linkedin"></i></a>
+                    <a href="https://github.com/bringerbenoit"><i class="bi bi-linkedin"></i></a> 
                 </div>
             </div>
         </div>
